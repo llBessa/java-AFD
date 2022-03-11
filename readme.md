@@ -1,0 +1,1 @@
+# Este é um repositórico contendo uma implementação simples de um Automato finito deterministico (AFD) em java.
